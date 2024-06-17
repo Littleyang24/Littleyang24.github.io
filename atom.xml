@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-06-17T10:38:04.942Z</updated>
+  <updated>2024-06-17T10:35:40.917Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>关于本HexoBlog搭建</title>
-    <link href="http://example.com/2024/06/17/%E5%85%B3%E4%BA%8E%E6%9C%ACHexoBlog%E6%90%AD%E5%BB%BA/"/>
-    <id>http://example.com/2024/06/17/%E5%85%B3%E4%BA%8E%E6%9C%ACHexoBlog%E6%90%AD%E5%BB%BA/</id>
-    <published>2024-06-17T10:38:04.000Z</published>
-    <updated>2024-06-17T10:38:04.942Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>关于c语言的指针详解</title>
@@ -56,18 +43,18 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>Hello World —— 关于本HexoBlog搭建</title>
     <link href="http://example.com/2024/06/16/hello-world/"/>
     <id>http://example.com/2024/06/16/hello-world/</id>
     <published>2024-06-16T11:07:58.519Z</published>
-    <updated>2024-06-16T12:51:25.518Z</updated>
+    <updated>2024-06-17T10:47:06.557Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="你好世界"><a href="#你好世界" class="headerlink" title="你好世界"></a>你好世界</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="AC-Blog：你好世界"><a href="#AC-Blog：你好世界" class="headerlink" title="AC_Blog：你好世界"></a>AC_Blog：你好世界</h1>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;你好世界&quot;&gt;&lt;a href=&quot;#你好世界&quot; class=&quot;headerlink&quot; title=&quot;你好世界&quot;&gt;&lt;/a&gt;你好世界&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;AC-Blog：你好世界&quot;&gt;&lt;a href=&quot;#AC-Blog：你好世界&quot; class=&quot;headerlink&quot; title=&quot;AC_Blog：你好世界&quot;&gt;&lt;/a&gt;AC_Blog：你好世界&lt;/h1&gt;</summary>
       
     
     
